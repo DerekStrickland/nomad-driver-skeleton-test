@@ -6,9 +6,9 @@ go 1.12
 require (
 	github.com/containernetworking/plugins v0.8.3 // indirect
 	github.com/hashicorp/consul-template v0.25.2
-	github.com/hashicorp/go-hclog v0.14.1
-	github.com/hashicorp/go-plugin v1.4.0
-	github.com/hashicorp/nomad v1.1.14
+	github.com/hashicorp/go-hclog v1.2.2
+	github.com/hashicorp/go-plugin v1.4.3
+	github.com/hashicorp/nomad v1.2.13
 	github.com/shirou/gopsutil v2.19.11+incompatible // indirect
 )
 
